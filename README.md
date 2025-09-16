@@ -10,8 +10,8 @@
 
 - 🌐 Website: [barrelprooflabs.org](https://barrelprooflabs.org)
 - 📄 Whitepaper: [docs/whitepaper.pdf](docs/whitepaper.pdf)
-- 💬 Telegram: [t.me/BarrelsChat](https://t.me/Barrelprooflabs)
-- 🐦 Twitter: [x.com/coinOILX](https://x.com/getappai)
+- 💬 Telegram: [t.me/Barrelprooflabs](https://t.me/Barrelprooflabs)
+- 🐦 Twitter: [x.com/getappai](https://x.com/getappai)
 
 ---
 
