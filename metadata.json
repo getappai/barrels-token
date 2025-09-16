@@ -1,0 +1,13 @@
+{
+  "name": "Barrels",
+  "symbol": "BARRELS",
+  "decimals": 9,
+  "chain": "Solana",
+  "contract_address": "PUT_YOUR_CA_HERE",
+  "description": "Barrels is the first oil-backed token designed under MiCA regulation in Europe. Powered by BarrelProof Labs, it connects real-world assets like oil, gold and metals to the blockchain through Proof-of-Reserves.",
+  "website": "https://barrelprooflabs.org",
+  "telegram": "https://t.me/BarrelsChat",
+  "twitter": "https://x.com/coinOILX",
+  "whitepaper": "docs/whitepaper.pdf",
+  "slogan": "Real assets. Real compliance. Real transparency."
+}
