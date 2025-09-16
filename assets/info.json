@@ -1,0 +1,12 @@
+{
+  "name": "Barrels",
+  "symbol": "BARREL",
+  "type": "token",
+  "decimals": 9,
+  "description": "BarrelProof Labs official token under MiCA compliance.",
+  "website": "https://barrelprooflabs.org",
+  "twitter": "https://x.com/getappai",
+  "telegram": "https://t.me/barrelprooflabs",
+  "discord": "https://discord.gg/...",
+  "explorer": "https://solscan.io/token/<F2ws1vjNHNDQFtorQBiDZNjWfAtSyyn555KEZJH9pump>"
+}
