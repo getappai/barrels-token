@@ -10,8 +10,8 @@
 
 - 🌐 Website: [barrelprooflabs.org](https://barrelprooflabs.org)
 - 📄 Whitepaper: [docs/whitepaper.pdf](docs/whitepaper.pdf)
-- 💬 Telegram: [t.me/BarrelsChat](https://t.me/BarrelsChat)
-- 🐦 Twitter: [x.com/coinOILX](https://x.com/coinOILX)
+- 💬 Telegram: [t.me/BarrelsChat](https://t.me/Barrelprooflabs)
+- 🐦 Twitter: [x.com/coinOILX](https://x.com/getappai)
 
 ---
 
@@ -23,7 +23,7 @@
 | **Symbol**       | BARRELS                |
 | **Decimals**     | 9                      |
 | **Chain**        | Solana                 |
-| **Contract**     | `PUT_YOUR_CA_HERE`     |
+| **Contract**     | `F2ws1vjNHNDQFtorQBiDZNjWfAtSyyn555KEZJH9pump`     |
 | **Backed by**    | Real oil assets, MiCA-compliant (EU) |
 | **Issuer**       | BarrelProof Labs       |
 
